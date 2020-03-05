@@ -8,5 +8,5 @@ end
 
 def countdown_with_sleep(number)
   until number == 5
-    puts ""
+    puts sleep(1.0)
   
